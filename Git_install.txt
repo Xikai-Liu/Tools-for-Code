@@ -1,0 +1,9 @@
+git
+
+
+sudo apt-get install git       linux
+
+$ git config --global user.name "Your Name"
+$ git config --global user.email "email@example.com"
+
+mac os   install Xcode  or throw homebrew

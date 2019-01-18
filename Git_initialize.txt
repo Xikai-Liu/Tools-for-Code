@@ -1,0 +1,9 @@
+$ mkdir fi
+cd fi
+pwd
+
+git init
+
+git add readme.txt
+
+git commit -m "add readme"

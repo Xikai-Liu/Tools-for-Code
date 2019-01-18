@@ -1,0 +1,8 @@
+git add read.txt
+git commit -m "add read"
+rm read.txt
+git status
+git rm read.txt
+git commit -m "remove read"
+
+git checkout -- read.txt

@@ -1,0 +1,7 @@
+git log --pretty=oneline
+
+git reset --hard HEAD^   //HEAD^^
+
+git reset --hard XXXX
+
+git reflog

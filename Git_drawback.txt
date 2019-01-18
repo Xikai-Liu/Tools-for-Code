@@ -1,0 +1,3 @@
+git status
+git checkout -- readme.txt
+when you are already add it : git reset HEAD readme.txt

@@ -1,0 +1,5 @@
+git status
+git diff
+git diff HEAD -- readme.txt 
+git add readme.txt
+git commit -m "modify"
