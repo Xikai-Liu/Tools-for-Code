@@ -1,2 +1,2 @@
-Try to learn git
+Learn git
 
